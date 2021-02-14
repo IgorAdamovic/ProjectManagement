@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## BackEnd
 
-Create database in MySql or phpMyAdmin, default name is rpo (Recognite Project Manager). Run a query from project_management.sql to create tables inside database. Users table has one user's data inserted, with admin authorization needed for login. 
+Create database in MySql or phpMyAdmin, default name is rpo (Recognite Project Manager). Run a query from project_management.sql to create tables inside database. Users table has one user inserted with admin authorization needed for login. 
 
 ## Login
 
