@@ -32,7 +32,7 @@ Create database in MySql or phpMyAdmin, default name is rpo (Recognite Project M
 
 ## Login
 
-User: Igor
+User: Igor or igor@recognite.co.uk
 
 Password: 1234
 
