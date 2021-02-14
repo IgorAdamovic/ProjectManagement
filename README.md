@@ -2,7 +2,7 @@
 
 Fully responsive, mobile-friendly application for company's use.
 
-This project was generated with Vue CLI version 2.6.11.
+This project was generated with [Vue CLI](https://github.com/vuejs/vue) version 2.6.11.
 
 ## About the project
 
@@ -25,7 +25,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# ProjectManagement
 
 ## BackEnd
 
@@ -34,5 +33,6 @@ Create database in MySql or phpMyAdmin, default name is rpo (Recognite Project M
 ## Login
 
 User: Igor
+
 Password: 1234
 
