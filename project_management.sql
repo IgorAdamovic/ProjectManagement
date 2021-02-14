@@ -5,7 +5,7 @@
 # http://www.sequelpro.com/
 # https://github.com/sequelpro/sequelpro
 #
-# Host: homeviews.co.uk (MySQL 5.5.5-10.1.47-MariaDB-0ubuntu0.18.04.1)
+# Host: (MySQL 5.5.5-10.1.47-MariaDB-0ubuntu0.18.04.1)
 # Database: recognite_project_manager
 # Generation Time: 2021-02-05 12:33:11 +0000
 # ************************************************************
