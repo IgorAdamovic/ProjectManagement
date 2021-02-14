@@ -129,7 +129,7 @@ LOCK TABLES `users` WRITE;
 
 INSERT INTO `users` (`idUsers`, `uidUsers`, `emailUsers`, `pwdUsers`, `role`, `projects_state`, `updates_state`, `hardware_state`, `clients_state`)
 VALUES
-	(1,'Igor','igor@recognite.co.uk','$2y$10$pHJprIGUU5dT4H2Aq5hQa.UV6cG8UUxSVR5MLxiOpVxSVj9yBQxAO','User',NULL,NULL,NULL,NULL);
+	(1,'Igor','igor@recognite.co.uk','$2y$10$pHJprIGUU5dT4H2Aq5hQa.UV6cG8UUxSVR5MLxiOpVxSVj9yBQxAO','Admin',NULL,NULL,NULL,NULL);
 
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
