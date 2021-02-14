@@ -1,5 +1,13 @@
 # ProjectManagement
 
+Fully responsive, mobile-friendly application for company's use.
+
+This project was generated with Vue CLI version 2.6.11.
+
+## About the project
+
+This app is made for the company I'm working for, Recognite Ltd. It's made for internal use, so there is no validation inside forms and it's fully customized for the needs of our project managers.
+
 ## Project setup
 ```
 npm install
@@ -18,3 +26,13 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # ProjectManagement
+
+## BackEnd
+
+Create database in MySql or phpMyAdmin, default name is rpo (Recognite Project Manager). Run a query from project_management.sql to create tables inside database. Users table has one user's data inserted, with admin authorization needed for login. 
+
+## Login
+
+User: Igor
+Password: 1234
+
