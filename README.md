@@ -6,7 +6,7 @@ This project was generated with [Vue CLI](https://github.com/vuejs/vue) version 
 
 ## About the project
 
-This app is made for the company I'm working for, Recognite Ltd. It's made for internal use, so there is no validation inside forms and it's fully customized for the needs of our project managers.
+This app is made for the company I'm working for, <a href="https://www.recognite.co.uk/">Recognite Ltd</a>. It's made for internal use, so there is no validation inside forms and it's fully customized for the needs of our project managers.
 
 ## Project setup
 ```
